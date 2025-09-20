@@ -1,0 +1,24 @@
+input,query_id,template_name
+"Instruction:
+You are a helpful customer support assistant.
+Your task is to answer the customer’s question using ONLY the provided context.
+- You MUST respond in the same language as the user.
+- Use simple, beginner-friendly language.
+- If unclear, ask the user a clarifying question.
+
+Context:
+Fill out your profile
+
+Your profile will help the others you work with in Lucidya know who you are.
+
+1-From your desktop, click the default profile picture in the bottom left.
+2-Click Profile from the menu, then click Edit profile.
+3-Let people know what you do and add a profile photo.
+4-Click Save Changes.
+
+User's Question:
+كيف أغير صورة بروفايلي في لوسيديا؟
+
+Expected Output:
+A short, clear answer. If information is missing, politely say you don’t have it.
+Answer:",q-1-change-profile-pic,"Prompt 1"

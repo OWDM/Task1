@@ -1,0 +1,206 @@
+===== Prompt 1 - Change the profile pic =====
+
+----- Prompt Sent -----
+Instruction:  
+You are a helpful customer support assistant.  
+Your task is to answer the customer’s question using ONLY the provided context.  
+- You MUST respond in the same language as the user.  
+- Use simple, beginner-friendly language.  
+- If unclear, ask the user a clarifying question.  
+
+Context:  
+
+Fill out your profile
+
+Your profile will help the others you work with in Lucidya know who you are.
+
+    1-From your desktop, click the default profile picture in the bottom left.
+    2-Click Profile from the menu, then click Edit profile.  
+    3-Let people know what you do and add a profile photo.
+    4-Click Save Changes.
+
+
+User's Question:  
+كيف أغير صورة بروفايلي في لوسيديا؟
+
+Expected Output:  
+A short, clear answer. If information is missing, politely say you don’t have it.  
+Answer:
+
+
+===== Prompt 1 - Change the profile pic =====
+
+----- Response -----
+لتغيير صورة بروفايلك في لوسيديا، اتبع هذه الخطوات:  
+1. من جهاز الكمبيوتر، انقر على صورة البروفايل الافتراضية في الأسفل على اليسار.  
+2. انقر على "الملف الشخصي" من القائمة، ثم انقر على "تعديل الملف الشخصي".  
+3. أضف صورة بروفايل جديدة.  
+4. انقر على "حفظ التغييرات".
+
+----- Trace Info -----
+Model: gpt-4o-mini-2024-07-18
+Prompt tokens: 198
+Completion tokens: 98
+Total tokens: 296
+Elapsed time (s): 2.356
+Cost (USD): 0.000088
+
+
+
+
+===== Prompt 1 - q-3 -Configure your notifications =====
+
+----- Prompt Sent -----
+Instruction:  
+You are a helpful customer support assistant.  
+Your task is to answer the customer’s question using ONLY the provided context.  
+- You MUST respond in the same language as the user.  
+- Use simple, beginner-friendly language.  
+- If unclear, ask the user a clarifying question.  
+
+Context:  
+
+Configure your notifications
+
+Your notifications in Lucidya will alert you of activity in your workspace. You can decide what messages will trigger notifications for you and set other details from your preferences.
+
+    1-From your desktop, click your profile picture in the bottom left. 
+    2-Select Preferences from the menu to open your notification preferences.
+    3-Choose the activity you’d like to get notified about, then configure any additional notification preferences you’d like.
+
+Visit Configure your Lucidya notifications to learn about all of the available notification preferences in Lucidya.
+
+
+User's Question:  
+ما تجيني إشعارات إذا أحد منشنني، وين ألقى الإعدادات أضبطها؟
+
+Expected Output:  
+A short, clear answer. If information is missing, politely say you don’t have it.  
+Answer:
+
+
+===== Prompt 1 - q-2 -Convert a channel to private or public =====
+
+----- Response -----
+يمكنك ضبط إعدادات الإشعارات من خلال اتباع الخطوات التالية:
+
+1. من جهاز الكمبيوتر، اضغط على صورتك الشخصية في الأسفل على اليسار.  
+2. اختر "Preferences" من القائمة لفتح تفضيلات الإشعارات الخاصة بك.  
+3. اختر النشاط الذي تريد تلقي إشعارات عنه واضبط باقي الخيارات كما تحب.
+
+إذا كنت بحاجة لمزيد من المساعدة، لا تتردد في السؤال!
+
+----- Trace Info -----
+Model: gpt-4o-mini-2024-07-18
+Prompt tokens: 243
+Completion tokens: 93
+Total tokens: 336
+Elapsed time (s): 2.466
+Cost (USD): 0.000092
+
+
+
+
+
+===== Prompt 1 - q-4 -send message =====
+
+----- Prompt Sent -----
+Instruction:  
+You are a helpful customer support assistant.  
+Your task is to answer the customer’s question using ONLY the provided context.  
+- You MUST respond in the same language as the user.  
+- Use simple, beginner-friendly language.  
+- If unclear, ask the user a clarifying question.  
+
+Context:  
+
+
+Learn how to send messages
+
+In Lucidya, you can send messages to other people you work with. If you need to communicate with a group of people, send a message in a channel. To have a one-to-one conversation with someone, send them a direct message.
+
+    1-From your desktop, click the  + plus button in the sidebar.
+    2-Choose a conversation to send your message.
+    3-Type your message and add any attachments, emoji, mentions, or formatting you’d like.
+    4-Press Enter to send your message. Or click the arrow icon (next to the > paper plane icon) to schedule it for later. 
+
+Visit Find and start conversations in Lucidya to learn more about sending messages. 
+
+Note: If you’ve been invited to a workspace as a guest, you can only send messages in channels you have access to, and DM people in the same channels as you.
+
+
+User's Question:  
+أبغى أرسل رسالة خاصة لمديري بس ما لقيت الزر، وش أسوي؟
+
+Expected Output:  
+A short, clear answer. If information is missing, politely say you don’t have it.  
+Answer:
+
+
+===== Prompt 1 - q-4 -send message =====
+
+----- Response -----
+لإرسال رسالة خاصة لمديرك، اضغط على زر الـ + في الشريط الجانبي. بعدين اختر المحادثة المناسبة، اكتب رسالتك واضغط على Enter لإرسالها. إذا ما لقيت الزر، تأكد إنك في المكان الصحيح أو حاول تحديث الصفحة.
+
+----- Trace Info -----
+Model: gpt-4o-mini-2024-07-18
+Prompt tokens: 319
+Completion tokens: 64
+Total tokens: 383
+Elapsed time (s): 3.531
+Cost (USD): 0.000086
+
+
+===== Prompt 1 - q-5 -Out-of-scope =====
+
+----- Prompt Sent -----
+Instruction:  
+You are a helpful customer support assistant.  
+Your task is to answer the customer’s question using ONLY the provided context.  
+- You MUST respond in the same language as the user.  
+- Use simple, beginner-friendly language.  
+- If unclear, ask the user a clarifying question.  
+
+Context:  
+
+
+Create a channel
+Who can use this feature?
+
+    By default, members and sometimes guests
+    Available on all plans
+
+Channels are the best way to keep conversations about various projects, topics, or teams organized in Lucidya. There’s no limit to how many channels you can have in Lucidya, so go ahead — create as many as you’d like!
+
+
+Create a channel
+
+    1-Click the + plus sign in the sidebar.
+    2-Select  # Channel. If you’re on a paid plan, you can select Blank channel to set up a regular channel, or choose a template to automatically set your channel up for a specific purpose (like managing a project, handling approvals, and more). 
+    3-Enter a channel name, then click Next.
+    4-Choose whether your channel should be public or private, then click Create.
+
+
+User's Question:  
+Can Lucidya automatically generate daily reports in channels?
+
+Expected Output:  
+A short, clear answer. If information is missing, politely say you don’t have it.  
+Answer:
+
+
+===== Prompt 1 - q-5 -Out-of-scope =====
+
+----- Response -----
+I don't have information about automatic daily reports in channels on Lucidya.
+
+----- Trace Info -----
+Model: gpt-4o-mini-2024-07-18
+Prompt tokens: 294
+Completion tokens: 15
+Total tokens: 309
+Elapsed time (s): 1.281
+Cost (USD): 0.000053
+
+
+

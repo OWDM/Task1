@@ -1,0 +1,113 @@
+
+Getting started for new Lucidya users
+
+A Lucidya workspace is a single place for your team and your work. If you’ve recently joined one, this guide will help you get set up in Lucidya so you can get started. Before you dive in, make sure you’ve downloaded the desktop app and you’re able to sign in to your workspace.
+
+1. Fill out your profile
+
+Your profile will help the others you work with in Lucidya know who you are.
+
+    1-From your desktop, click the default profile picture in the bottom left.
+    2-Click Profile from the menu, then click Edit profile.  
+    3-Let people know what you do and add a profile photo.
+    4-Click Save Changes.
+
+2. Configure your notifications
+
+Your notifications in Lucidya will alert you of activity in your workspace. You can decide what messages will trigger notifications for you and set other details from your preferences.
+
+    1-From your desktop, click your profile picture in the bottom left. 
+    2-Select Preferences from the menu to open your notification preferences.
+    3-Choose the activity you’d like to get notified about, then configure any additional notification preferences you’d like.
+
+Visit Configure your Lucidya notifications to learn about all of the available notification preferences in Lucidya.
+
+
+3. Learn how to send messages
+
+In Lucidya, you can send messages to other people you work with. If you need to communicate with a group of people, send a message in a channel. To have a one-to-one conversation with someone, send them a direct message.
+
+    1-From your desktop, click the  + plus button in the sidebar.
+    2-Choose a conversation to send your message.
+    3-Type your message and add any attachments, emoji, mentions, or formatting you’d like.
+    4-Press Enter to send your message. Or click the arrow icon (next to the > paper plane icon) to schedule it for later. 
+
+Visit Find and start conversations in Lucidya to learn more about sending messages. 
+
+Note: If you’ve been invited to a workspace as a guest, you can only send messages in channels you have access to, and DM people in the same channels as you.
+
+
+
+
+
+
+Create a channel
+Who can use this feature?
+
+    By default, members and sometimes guests
+    Available on all plans
+
+Channels are the best way to keep conversations about various projects, topics, or teams organized in Lucidya. There’s no limit to how many channels you can have in Lucidya, so go ahead — create as many as you’d like!
+
+
+Create a channel
+
+    1-Click the + plus sign in the sidebar.
+    2-Select  # Channel. If you’re on a paid plan, you can select Blank channel to set up a regular channel, or choose a template to automatically set your channel up for a specific purpose (like managing a project, handling approvals, and more). 
+    3-Enter a channel name, then click Next.
+    4-Choose whether your channel should be public or private, then click Create.
+
+
+
+Add people to a channel
+Who can use this feature?
+
+    All members and Multi-Channel Guests
+    Available on all plans
+
+Lucidya organizes conversations into dedicated spaces called channels. Add people to channels to bring the right people and information in your workspace together in one place (for people outside your company, learn how to use Lucidya Connect to invite them to a channel). 
+
+
+
+Add people to a channel
+
+You can add up to 1,000 people to a channel at once. For large groups, we recommend copying a list of full names or email addresses from another channel in Lucidya or another service before following the steps below. If email addresses are hidden in member profiles, you won't be able to add people to channels using email addresses. 
+
+
+
+    1-Open the channel you'd like to add people to.
+    2-Click cluster of profile pictures in the top right.
+    3-Click  Add people Button.
+    4-To add a few people, search for the members you'd like to add by name, email address, or user group (if you're using a paid plan) and select them. To add a large group, paste the list of names or email addresses into the field.
+    5-When you're done, click Add.
+
+
+
+Convert a channel to private or public
+
+Who can use this feature?
+
+    Workspace Owners/Admins, Org Owners/Admins, and Channel Managers can convert a channel to private
+    Workspace Owners and Org Owners/Admins can convert a channel to public
+    Available on all plans
+
+When you create a channel, you can choose to make it either public or private. Public channels are best for sharing information that anyone can find and read, while private channels are meant for discussions that shouldn't be open to everyone. If you need to change this setting later, you can convert a channel to private or public.
+Keep in mind
+
+    Files shared in a channel that is converted to public will also become public. Once made public, files will remain public even if the channel is converted back to private.
+    Lucidya Connect channels can't be converted to public if they're private in the organization that owns the channel. Otherwise, when you convert a Lucidya Connect channel, it will only be converted for the organization that made the change.
+    The #general or #all-company channel can't be converted to private.
+
+Note: On the Business+ and Enterprise plans, owners and admins can convert channels to private with channel management tools.
+Convert a channel 
+
+When you convert a channel, a message will post in the channel to let members know it's been converted.
+
+    1-From your desktop, open the channel you'd like to make private.
+    2-Click the channel name in the conversation header.
+    3-Select the Settings tab.
+    4-Scroll down and click Change to a private channel. 
+    5-Click Change to Private to confirm. 
+
+ 
+By default, owners, admins, and Channel Managers can convert a channel to private, but owners can restrict this. If you can't convert a channel to private, find an owner and ask for help.

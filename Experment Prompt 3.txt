@@ -1,0 +1,251 @@
+Experment Prompt 3
+
+
+
+===== Prompt 3 - q-1 -Change the profile pic =====
+
+----- Prompt Sent -----
+
+### Instruction ###
+Your task is to provide a customer support answer.  
+You MUST follow these rules (failure to do so = penalty):  
+- Always answer in the SAME language as the customer.  
+- Always use ONLY the provided information. Do not invent.  
+- Keep the answer simple, clear, and user-friendly.  
+- If the answer is missing, explicitly say: "I don’t have that information."  
+
+### Important Reminder (REPEATED) ###
+- SAME language. SAME language. SAME language.  
+- ONLY use provided information. ONLY use provided information.  
+
+
+### Context ###  
+
+Fill out your profile
+
+Your profile will help the others you work with in Lucidya know who you are.
+
+    1-From your desktop, click the default profile picture in the bottom left.
+    2-Click Profile from the menu, then click Edit profile.  
+    3-Let people know what you do and add a profile photo.
+    4-Click Save Changes.
+
+
+### User's Question ###:  
+كيف أغير صورة بروفايلي في لوسيديا؟
+
+Begin your answer here:
+
+
+===== Prompt 3 - q-1 -Change the profile pic =====
+
+----- Response -----
+لتغيير صورة بروفايلك في لوسيديا، يمكنك اتباع الخطوات التالية:
+
+1. من جهاز الكمبيوتر الخاص بك، انقر على صورة البروفايل الافتراضية في الأسفل على اليسار.
+2. انقر على "البروفايل" من القائمة، ثم انقر على "تعديل البروفايل".
+3. قم بإضافة صورة بروفايل جديدة.
+4. انقر على "حفظ التغييرات". 
+
+إذا كان لديك أي أسئلة أخرى، لا تتردد في طرحها!
+
+----- Trace Info -----
+Model: gpt-4o-mini-2024-07-18
+Prompt tokens: 235
+Completion tokens: 112
+Total tokens: 347
+Elapsed time (s): 2.669
+Cost (USD): 0.000102
+
+
+
+===== Prompt 3 - q-2 -witch it to private Channel =====
+
+----- Prompt Sent -----
+
+### Instruction ###
+Your task is to provide a customer support answer.  
+You MUST follow these rules (failure to do so = penalty):  
+- Always answer in the SAME language as the customer.  
+- Always use ONLY the provided information. Do not invent.  
+- Keep the answer simple, clear, and user-friendly.  
+- If the answer is missing, explicitly say: "I don’t have that information."  
+
+### Important Reminder (REPEATED) ###
+- SAME language. SAME language. SAME language.  
+- ONLY use provided information. ONLY use provided information.  
+
+
+### Context ###  
+
+Convert a channel to private or public
+
+Who can use this feature?
+
+    Workspace Owners/Admins, Org Owners/Admins, and Channel Managers can convert a channel to private
+    Workspace Owners and Org Owners/Admins can convert a channel to public
+    Available on all plans
+
+When you create a channel, you can choose to make it either public or private. Public channels are best for sharing information that anyone can find and read, while private channels are meant for discussions that shouldn't be open to everyone. If you need to change this setting later, you can convert a channel to private or public.
+Keep in mind
+
+    Files shared in a channel that is converted to public will also become public. Once made public, files will remain public even if the channel is converted back to private.
+    Lucidya Connect channels can't be converted to public if they're private in the organization that owns the channel. Otherwise, when you convert a Lucidya Connect channel, it will only be converted for the organization that made the change.
+    The #general or #all-company channel can't be converted to private.
+
+Note: On the Business+ and Enterprise plans, owners and admins can convert channels to private with channel management tools.
+Convert a channel 
+
+When you convert a channel, a message will post in the channel to let members know it's been converted.
+
+    1-From your desktop, open the channel you'd like to make private.
+    2-Click the channel name in the conversation header.
+    3-Select the Settings tab.
+    4-Scroll down and click Change to a private channel. 
+    5-Click Change to Private to confirm. 
+
+
+By default, owners, admins, and Channel Managers can convert a channel to private, but owners can restrict this. If you can't convert a channel to private, find an owner and ask for help.
+
+
+### User's Question ###:  
+I made a public channel but now I only want my team in it. Can I switch it to private, and will old messages still be visible?
+
+Begin your answer here:
+
+
+===== Prompt 3 - q-2 -witch it to private Channel =====
+
+----- Response -----
+Yes, you can switch your public channel to private. However, keep in mind that once the channel is converted to public, all files shared in it will also become public, and they will remain public even if you convert the channel back to private. Old messages will still be visible to the members of the private channel.
+
+----- Trace Info -----
+Model: gpt-4o-mini-2024-07-18
+Prompt tokens: 545
+Completion tokens: 64
+Total tokens: 609
+Elapsed time (s): 1.57
+Cost (USD): 0.000120
+
+
+===== Prompt 3 - q-3 -notifications =====
+
+----- Prompt Sent -----
+
+### Instruction ###
+Your task is to provide a customer support answer.  
+You MUST follow these rules (failure to do so = penalty):  
+- Always answer in the SAME language as the customer.  
+- Always use ONLY the provided information. Do not invent.  
+- Keep the answer simple, clear, and user-friendly.  
+- If the answer is missing, explicitly say: "I don’t have that information."  
+
+### Important Reminder (REPEATED) ###
+- SAME language. SAME language. SAME language.  
+- ONLY use provided information. ONLY use provided information.  
+
+
+### Context ###  
+
+Configure your notifications
+
+Your notifications in Lucidya will alert you of activity in your workspace. You can decide what messages will trigger notifications for you and set other details from your preferences.
+
+    1-From your desktop, click your profile picture in the bottom left. 
+    2-Select Preferences from the menu to open your notification preferences.
+    3-Choose the activity you’d like to get notified about, then configure any additional notification preferences you’d like.
+
+Visit Configure your Lucidya notifications to learn about all of the available notification preferences in Lucidya.
+
+
+### User's Question ###:  
+ما تجيني إشعارات إذا أحد منشنني، وين ألقى الإعدادات أضبطها؟
+
+Begin your answer here:
+
+
+===== Prompt 3 - q-3 -notifications =====
+
+----- Response -----
+يمكنك ضبط إشعاراتك من خلال الخطوات التالية:
+
+1. من جهاز الكمبيوتر الخاص بك، انقر على صورة ملفك الشخصي في الزاوية السفلية اليسرى.
+2. اختر "التفضيلات" من القائمة لفتح تفضيلات الإشعارات.
+3. اختر النشاط الذي ترغب في تلقي إشعارات بشأنه، ثم قم بتكوين أي تفضيلات إشعارات إضافية.
+
+يمكنك زيارة صفحة "تهيئة إشعاراتك في لوسيديا" لتتعرف على جميع تفضيلات الإشعارات المتاحة.
+
+----- Trace Info -----
+Model: gpt-4o-mini-2024-07-18
+Prompt tokens: 280
+Completion tokens: 120
+Total tokens: 400
+Elapsed time (s): 4.378
+Cost (USD): 0.000114
+
+
+
+
+===== Prompt 3 - q-4 -send messages =====
+
+----- Prompt Sent -----
+
+### Instruction ###
+Your task is to provide a customer support answer.  
+You MUST follow these rules (failure to do so = penalty):  
+- Always answer in the SAME language as the customer.  
+- Always use ONLY the provided information. Do not invent.  
+- Keep the answer simple, clear, and user-friendly.  
+- If the answer is missing, explicitly say: "I don’t have that information."  
+
+### Important Reminder (REPEATED) ###
+- SAME language. SAME language. SAME language.  
+- ONLY use provided information. ONLY use provided information.  
+
+
+### Context ###  
+
+
+Learn how to send messages
+
+In Lucidya, you can send messages to other people you work with. If you need to communicate with a group of people, send a message in a channel. To have a one-to-one conversation with someone, send them a direct message.
+
+    1-From your desktop, click the  + plus button in the sidebar.
+    2-Choose a conversation to send your message.
+    3-Type your message and add any attachments, emoji, mentions, or formatting you’d like.
+    4-Press Enter to send your message. Or click the arrow icon (next to the > paper plane icon) to schedule it for later. 
+
+Visit Find and start conversations in Lucidya to learn more about sending messages. 
+
+Note: If you’ve been invited to a workspace as a guest, you can only send messages in channels you have access to, and DM people in the same channels as you.
+
+
+### User's Question ###:  
+أبغى أرسل رسالة خاصة لمديري بس ما لقيت الزر، وش أسوي؟
+
+Begin your answer here:
+
+
+===== Prompt 3 - q-4 -send messages =====
+
+----- Response -----
+لت отправить رسالة خاصة لمديرك، يمكنك اتباع الخطوات التالية:
+
+1. من على سطح المكتب، اضغط على زر + في الشريط الجانبي.
+2. اختر المحادثة التي تريد إرسال رسالتك فيها.
+3. اكتب رسالتك و أضف أي مرفقات، رموز تعبيرية، ذكر، أو تنسيق تريده.
+4. اضغط على Enter لإرسال الرسالة، أو انقر على أيقونة السهم بجوار أيقونة طائرة الورق لتجدولها لاحقًا.
+
+إذا كنت مدعوًا للعمل كضيف، يمكنك فقط إرسال الرسائل في القنوات التي لديك حق الوصول إليها. 
+
+إذا كان لديك أي سؤال آخر، لا تتردد في طرحه!
+
+----- Trace Info -----
+Model: gpt-4o-mini-2024-07-18
+Prompt tokens: 356
+Completion tokens: 155
+Total tokens: 511
+Elapsed time (s): 3.138
+Cost (USD): 0.000146
+
+
